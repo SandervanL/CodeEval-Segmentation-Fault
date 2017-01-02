@@ -1,511 +1,511 @@
+No segfault beforeChangingOperatorList: 174234
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 185
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 186
+No segfault beforeChangingOperatorList: 174235
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 187
+No segfault beforeChangingOperatorList: 174236
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174237
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 188
+No segfault beforeChangingOperatorList: 174238
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 189
+No segfault beforeChangingOperatorList: 174239
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 190
+No segfault beforeChangingOperatorList: 174240
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 191
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 192
+No segfault beforeChangingOperatorList: 174241
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 193
+No segfault beforeChangingOperatorList: 174242
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174243
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 194
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 195
+No segfault beforeChangingOperatorList: 174244
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 196
+No segfault beforeChangingOperatorList: 174245
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174246
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 197
+No segfault beforeChangingOperatorList: 174247
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 198
+No segfault beforeChangingOperatorList: 174248
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 199
+No segfault beforeChangingOperatorList: 174249
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 200
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 201
+No segfault beforeChangingOperatorList: 174250
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 202
+No segfault beforeChangingOperatorList: 174251
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174252
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 203
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 204
+No segfault beforeChangingOperatorList: 174253
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 205
+No segfault beforeChangingOperatorList: 174254
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174255
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174256
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 206
+No segfault beforeChangingOperatorList: 174257
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 207
+No segfault beforeChangingOperatorList: 174258
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 208
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 209
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 210
+No segfault beforeChangingOperatorList: 174259
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 211
+No segfault beforeChangingOperatorList: 174260
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174261
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 212
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 213
+No segfault beforeChangingOperatorList: 174262
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 214
+No segfault beforeChangingOperatorList: 174263
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174264
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 215
+No segfault beforeChangingOperatorList: 174265
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 216
+No segfault beforeChangingOperatorList: 174266
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 217
+No segfault beforeChangingOperatorList: 174267
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 218
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 219
+No segfault beforeChangingOperatorList: 174268
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 220
+No segfault beforeChangingOperatorList: 174269
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174270
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 221
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 222
+No segfault beforeChangingOperatorList: 174271
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 223
+No segfault beforeChangingOperatorList: 174272
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174273
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 224
+No segfault beforeChangingOperatorList: 174274
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 225
+No segfault beforeChangingOperatorList: 174275
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 226
+No segfault beforeChangingOperatorList: 174276
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 227
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 228
+No segfault beforeChangingOperatorList: 174277
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 229
+No segfault beforeChangingOperatorList: 174278
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174279
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 230
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 231
+No segfault beforeChangingOperatorList: 174280
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 232
+No segfault beforeChangingOperatorList: 174281
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174282
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174283
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174284
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 233
+No segfault beforeChangingOperatorList: 174285
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 234
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 235
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 236
+No segfault beforeChangingOperatorList: 174286
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 237
+No segfault beforeChangingOperatorList: 174287
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 238
+No segfault beforeChangingOperatorList: 174288
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 239
+No segfault beforeChangingOperatorList: 174289
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 240
+No segfault beforeChangingOperatorList: 174290
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 241
+No segfault beforeChangingOperatorList: 174291
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174292
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 242
+No segfault beforeChangingOperatorList: 174293
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 243
+No segfault beforeChangingOperatorList: 174294
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 244
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 245
+No segfault beforeChangingOperatorList: 174295
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 246
+No segfault beforeChangingOperatorList: 174296
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 247
+No segfault beforeChangingOperatorList: 174297
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 248
+No segfault beforeChangingOperatorList: 174298
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 249
+No segfault beforeChangingOperatorList: 174299
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 250
+No segfault beforeChangingOperatorList: 174300
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174301
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 251
+No segfault beforeChangingOperatorList: 174302
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 252
+No segfault beforeChangingOperatorList: 174303
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 253
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 254
+No segfault beforeChangingOperatorList: 174304
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 255
+No segfault beforeChangingOperatorList: 174305
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 0
+No segfault beforeChangingOperatorList: 174306
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 1
+No segfault beforeChangingOperatorList: 174307
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 2
+No segfault beforeChangingOperatorList: 174308
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 3
+No segfault beforeChangingOperatorList: 174309
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174310
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174311
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 4
+No segfault beforeChangingOperatorList: 174312
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 5
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 6
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 7
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 8
+No segfault beforeChangingOperatorList: 174313
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 9
+No segfault beforeChangingOperatorList: 174314
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174315
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 10
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 11
+No segfault beforeChangingOperatorList: 174316
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 12
+No segfault beforeChangingOperatorList: 174317
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174318
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 13
+No segfault beforeChangingOperatorList: 174319
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 14
+No segfault beforeChangingOperatorList: 174320
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 15
+No segfault beforeChangingOperatorList: 174321
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 16
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 17
+No segfault beforeChangingOperatorList: 174322
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 18
+No segfault beforeChangingOperatorList: 174323
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174324
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 19
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 20
+No segfault beforeChangingOperatorList: 174325
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 21
+No segfault beforeChangingOperatorList: 174326
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174327
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 22
+No segfault beforeChangingOperatorList: 174328
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 23
+No segfault beforeChangingOperatorList: 174329
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 24
+No segfault beforeChangingOperatorList: 174330
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 25
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 26
+No segfault beforeChangingOperatorList: 174331
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 27
+No segfault beforeChangingOperatorList: 174332
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174333
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 28
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 29
+No segfault beforeChangingOperatorList: 174334
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 30
+No segfault beforeChangingOperatorList: 174335
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174336
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174337
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 31
+No segfault beforeChangingOperatorList: 174338
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 32
+No segfault beforeChangingOperatorList: 174339
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 33
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 34
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 35
+No segfault beforeChangingOperatorList: 174340
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 36
+No segfault beforeChangingOperatorList: 174341
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174342
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 37
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 38
+No segfault beforeChangingOperatorList: 174343
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 39
+No segfault beforeChangingOperatorList: 174344
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174345
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 40
+No segfault beforeChangingOperatorList: 174346
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 41
+No segfault beforeChangingOperatorList: 174347
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 42
+No segfault beforeChangingOperatorList: 174348
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 43
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 44
+No segfault beforeChangingOperatorList: 174349
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 45
+No segfault beforeChangingOperatorList: 174350
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174351
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 46
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 47
+No segfault beforeChangingOperatorList: 174352
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 48
+No segfault beforeChangingOperatorList: 174353
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174354
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 49
+No segfault beforeChangingOperatorList: 174355
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 50
+No segfault beforeChangingOperatorList: 174356
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 51
+No segfault beforeChangingOperatorList: 174357
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 52
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 53
+No segfault beforeChangingOperatorList: 174358
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 54
+No segfault beforeChangingOperatorList: 174359
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174360
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 55
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 56
+No segfault beforeChangingOperatorList: 174361
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 57
+No segfault beforeChangingOperatorList: 174362
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174363
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174364
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174365
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 58
+No segfault beforeChangingOperatorList: 174366
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 59
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 60
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 61
+No segfault beforeChangingOperatorList: 174367
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 62
+No segfault beforeChangingOperatorList: 174368
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 63
+No segfault beforeChangingOperatorList: 174369
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 64
+No segfault beforeChangingOperatorList: 174370
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 65
+No segfault beforeChangingOperatorList: 174371
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 66
+No segfault beforeChangingOperatorList: 174372
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174373
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 67
+No segfault beforeChangingOperatorList: 174374
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 68
+No segfault beforeChangingOperatorList: 174375
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 69
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 70
+No segfault beforeChangingOperatorList: 174376
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 71
+No segfault beforeChangingOperatorList: 174377
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 72
+No segfault beforeChangingOperatorList: 174378
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 73
+No segfault beforeChangingOperatorList: 174379
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 74
+No segfault beforeChangingOperatorList: 174380
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 75
+No segfault beforeChangingOperatorList: 174381
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174382
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 76
+No segfault beforeChangingOperatorList: 174383
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 77
+No segfault beforeChangingOperatorList: 174384
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 78
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 79
+No segfault beforeChangingOperatorList: 174385
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 80
+No segfault beforeChangingOperatorList: 174386
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 81
+No segfault beforeChangingOperatorList: 174387
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 82
+No segfault beforeChangingOperatorList: 174388
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 83
+No segfault beforeChangingOperatorList: 174389
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 84
+No segfault beforeChangingOperatorList: 174390
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174391
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174392
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 85
+No segfault beforeChangingOperatorList: 174393
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 86
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 87
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 88
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 89
+No segfault beforeChangingOperatorList: 174394
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 90
+No segfault beforeChangingOperatorList: 174395
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174396
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 91
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 92
+No segfault beforeChangingOperatorList: 174397
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 93
+No segfault beforeChangingOperatorList: 174398
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174399
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 94
+No segfault beforeChangingOperatorList: 174400
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 95
+No segfault beforeChangingOperatorList: 174401
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 96
+No segfault beforeChangingOperatorList: 174402
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 97
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 98
+No segfault beforeChangingOperatorList: 174403
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 99
+No segfault beforeChangingOperatorList: 174404
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174405
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 100
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 101
+No segfault beforeChangingOperatorList: 174406
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 102
+No segfault beforeChangingOperatorList: 174407
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174408
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 103
+No segfault beforeChangingOperatorList: 174409
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 104
+No segfault beforeChangingOperatorList: 174410
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 105
+No segfault beforeChangingOperatorList: 174411
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 106
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 107
+No segfault beforeChangingOperatorList: 174412
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 108
+No segfault beforeChangingOperatorList: 174413
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174414
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 109
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 110
+No segfault beforeChangingOperatorList: 174415
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 111
+No segfault beforeChangingOperatorList: 174416
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174417
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174418
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 112
+No segfault beforeChangingOperatorList: 174419
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 113
+No segfault beforeChangingOperatorList: 174420
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 114
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 115
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 116
+No segfault beforeChangingOperatorList: 174421
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 117
+No segfault beforeChangingOperatorList: 174422
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174423
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 118
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 119
+No segfault beforeChangingOperatorList: 174424
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 120
+No segfault beforeChangingOperatorList: 174425
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174426
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 121
+No segfault beforeChangingOperatorList: 174427
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 122
+No segfault beforeChangingOperatorList: 174428
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 123
+No segfault beforeChangingOperatorList: 174429
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 124
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 125
+No segfault beforeChangingOperatorList: 174430
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 126
+No segfault beforeChangingOperatorList: 174431
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174432
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 127
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 128
+No segfault beforeChangingOperatorList: 174433
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 129
+No segfault beforeChangingOperatorList: 174434
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 174435
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 130
+No segfault beforeChangingOperatorList: 174436
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 131
+No segfault beforeChangingOperatorList: 174437
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 132
+No segfault beforeChangingOperatorList: 174438
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault beforeChangingOperatorList: 133
 /time.sh: line 3:     6 Segmentation fault      $*
