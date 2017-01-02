@@ -10,7 +10,7 @@
 uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t numbersSize);
 uint8_t changeOperatorList(uint8_t *numberList, uint8_t index);
 
-uint8_t identifyer = 0;
+uint8_t depth = 0;
 
 int main(int argc, char *argv[]) {
 	fprintf(stderr, "No segfault Begin\n");
@@ -75,7 +75,7 @@ int main(int argc, char *argv[]) {
 				}
 			}
 			printf("]\n");*/
-			identifyer = 0;
+			depth = 0;
 			printf("%d\n", makeNumbers(operators, numbers, nextBegin - begin) - 1);
 			fprintf(stderr, "No segfault madeNumbers\n");
 		}
@@ -104,7 +104,7 @@ uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t
 	
 	uint8_t isUglyNumber = (uint8_t) (n % 2 == 0 || n % 3 == 0 || n % 5 == 0 || n % 7 == 0);
 	
-	fprintf(stderr, "No segfault beforeChangingOperatorList: %d\n", identifyer++);
+	fprintf(stderr, "No segfault beforeChangingOperatorList: %d\n", ++depth);
 	if (changeOperatorList(operators, numbersSize - 2) == 0) {
 		return isUglyNumber;
 	}
