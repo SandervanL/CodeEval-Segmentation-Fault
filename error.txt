@@ -1,511 +1,511 @@
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 185
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 186
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 187
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 188
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 189
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 190
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 191
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 192
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 193
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 194
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 195
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 196
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 197
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 198
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 199
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 200
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 201
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 202
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 203
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 204
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 205
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 206
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 207
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 208
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 209
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 210
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 211
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 212
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 213
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 214
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 215
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 216
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 217
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 218
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 219
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 220
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 221
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 222
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 223
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 224
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 225
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 226
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 227
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 228
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 229
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 230
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 231
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 232
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 233
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 234
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 235
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 236
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 237
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 238
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 239
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 240
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 241
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 242
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 243
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 244
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 245
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 246
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 247
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 248
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 249
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 250
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 251
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 252
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 253
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 254
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 255
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 0
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 1
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 2
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 3
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 4
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 5
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 6
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 7
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 8
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 9
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 10
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 11
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 12
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 13
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 14
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 15
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 16
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 17
 No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 18
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 19
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 20
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 21
 No segfault beginChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
 No segfault beginChangingOperatorList
-No segfault afterChangingOperatorList
-No segfault beforeMakingN
-No segfault afterMakingN
-No segfault beforeChangingOperatorList
+No segfault beforeChangingOperatorList: 22
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 23
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 24
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 25
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 26
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 27
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 28
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 29
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 30
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 31
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 32
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 33
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 34
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 35
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 36
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 37
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 38
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 39
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 40
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 41
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 42
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 43
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 44
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 45
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 46
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 47
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 48
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 49
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 50
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 51
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 52
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 53
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 54
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 55
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 56
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 57
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 58
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 59
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 60
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 61
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 62
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 63
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 64
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 65
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 66
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 67
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 68
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 69
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 70
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 71
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 72
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 73
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 74
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 75
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 76
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 77
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 78
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 79
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 80
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 81
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 82
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 83
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 84
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 85
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 86
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 87
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 88
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 89
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 90
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 91
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 92
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 93
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 94
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 95
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 96
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 97
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 98
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 99
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 100
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 101
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 102
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 103
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 104
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 105
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 106
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 107
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 108
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 109
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 110
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 111
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 112
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 113
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 114
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 115
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 116
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 117
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 118
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 119
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 120
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 121
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 122
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 123
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 124
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 125
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 126
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 127
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 128
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 129
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 130
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 131
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 132
+No segfault beginChangingOperatorList
+No segfault beginChangingOperatorList
+No segfault beforeChangingOperatorList: 133
 /time.sh: line 3:     6 Segmentation fault      $*
