@@ -87,7 +87,6 @@ int main(int argc, char *argv[]) {
 uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t numbersSize) {
 	int32_t n = numbers[0];
 	uint8_t i;
-	fprintf(stderr, "No segfault beforeMakingN\n");
 	for (i = 0; i + 1 < numbersSize; i++) {
 		switch (operators[i]) {
 			case NOTHING:
@@ -100,7 +99,6 @@ uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t
 				break;
 		}
 	}
-	fprintf(stderr, "No segfault afterMakingN\n");
 	
 	uint8_t isUglyNumber = (uint8_t) (n % 2 == 0 || n % 3 == 0 || n % 5 == 0 || n % 7 == 0);
 	
@@ -108,7 +106,6 @@ uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t
 	if (changeOperatorList(operators, numbersSize - 2) == 0) {
 		return isUglyNumber;
 	}
-	fprintf(stderr, "No segfault afterChangingOperatorList\n");
 	return makeNumbers(operators, numbers, numbersSize) + isUglyNumber;
 }
 
