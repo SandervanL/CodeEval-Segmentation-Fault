@@ -10,7 +10,7 @@
 uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t numbersSize);
 uint8_t changeOperatorList(uint8_t *numberList, uint8_t index);
 
-uint8_t depth = 0;
+uint32_t depth = 0;
 
 int main(int argc, char *argv[]) {
 	fprintf(stderr, "No segfault Begin\n");
