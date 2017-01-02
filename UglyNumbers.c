@@ -13,41 +13,41 @@ uint8_t changeOperatorList(uint8_t *numberList, uint8_t index);
 uint8_t identifyer = 0;
 
 int main(int argc, char *argv[]) {
-	fprintf(stderr, "No segfault Begin\n", identifyer++);
+	fprintf(stderr, "No segfault Begin\n");
 	FILE *fp = fopen(argv[1], "r");
 	char buffer[1024];
-	fprintf(stderr, "No segfault Initialized\n", identifyer++);
+	fprintf(stderr, "No segfault Initialized\n");
 	while (fgets(buffer, 1024, fp) != NULL) {
-		fprintf(stderr, "No segfault fgets\n", identifyer++);
+		fprintf(stderr, "No segfault fgets\n");
 		char *begin;
 		char *nextBegin;
 		for (begin = buffer; begin[0] != '\0'; begin = nextBegin + 1) {
-			fprintf(stderr, "No segfault beginFor\n", identifyer++);
+			fprintf(stderr, "No segfault beginFor\n");
 			nextBegin = strchr(begin, '\n');
 			if (nextBegin == NULL) {
 				printf("NextBegin NULL!\n");
 				break;
 			}
-			fprintf(stderr, "No segfault nextBegin\n", identifyer++);
+			fprintf(stderr, "No segfault nextBegin\n");
 			*nextBegin = '\0';
 			if (nextBegin - begin == 1) {
 				uint32_t n = atoi(begin);
 				printf("%d\n", n % 2 == 0 || n % 3 == 0 || n % 5 == 0 || n % 7 == 0);
 				continue;
 			}
-			fprintf(stderr, "No segfault bigNumber\n", identifyer++);
+			fprintf(stderr, "No segfault bigNumber\n");
 			uint8_t *numbers = malloc((nextBegin-begin) * sizeof(uint8_t));
 			if (numbers == NULL) {
 				fprintf(stderr, "ERROR IN MALLOC!\n");
 				break;
 			}
-			fprintf(stderr, "No segfault numbers\n", identifyer++);
+			fprintf(stderr, "No segfault numbers\n");
 			char *c;
 			for (c = begin; c < nextBegin; c++) {
 				numbers[c - begin] = c[0] - 48;
 			}
 			
-			fprintf(stderr, "No segfault numbers initialized\n", identifyer++);
+			fprintf(stderr, "No segfault numbers initialized\n");
 			
 			
 			uint8_t *operators = malloc((nextBegin - begin - 1) * sizeof(uint8_t));
@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
 				operators[i] = 0;
 			}
 			
-			fprintf(stderr, "No segfault operatorsInitialized\n", identifyer++);
+			fprintf(stderr, "No segfault operatorsInitialized\n");
 			
 			/*printf("Numbers: [%d", numbers[0]);
 			uint8_t i;
@@ -77,7 +77,7 @@ int main(int argc, char *argv[]) {
 			printf("]\n");*/
 			
 			printf("%d\n", makeNumbers(operators, numbers, nextBegin - begin) - 1);
-			fprintf(stderr, "No segfault madeNumbers\n", identifyer++);
+			fprintf(stderr, "No segfault madeNumbers\n");
 		}
 	};
 	fclose(fp);
@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
 uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t numbersSize) {
 	int32_t n = numbers[0];
 	uint8_t i;
-	fprintf(stderr, "No segfault beforeMakingN\n", identifyer++);
+	fprintf(stderr, "No segfault beforeMakingN\n");
 	for (i = 0; i + 1 < numbersSize; i++) {
 		switch (operators[i]) {
 			case NOTHING:
@@ -100,20 +100,20 @@ uint32_t makeNumbers(uint8_t operators[], const uint8_t numbers[], const uint8_t
 				break;
 		}
 	}
-	fprintf(stderr, "No segfault afterMakingN\n", identifyer++);
+	fprintf(stderr, "No segfault afterMakingN\n");
 	
 	uint8_t isUglyNumber = (uint8_t) (n % 2 == 0 || n % 3 == 0 || n % 5 == 0 || n % 7 == 0);
 	
-	fprintf(stderr, "No segfault beforeChangingOperatorList\n", identifyer++);
+	fprintf(stderr, "No segfault beforeChangingOperatorList: %d\n", identifyer++);
 	if (changeOperatorList(operators, numbersSize - 2) == 0) {
 		return isUglyNumber;
 	}
-	fprintf(stderr, "No segfault afterChangingOperatorList\n", identifyer++);
+	fprintf(stderr, "No segfault afterChangingOperatorList\n");
 	return makeNumbers(operators, numbers, numbersSize) + isUglyNumber;
 }
 
 uint8_t changeOperatorList(uint8_t *numberList, uint8_t index) {
-	fprintf(stderr, "No segfault beginChangingOperatorList\n", identifyer++);
+	fprintf(stderr, "No segfault beginChangingOperatorList\n");
 	if (numberList[index] == 2) {
 		numberList[index] = 0;
 		return index && changeOperatorList(numberList, index - 1);
