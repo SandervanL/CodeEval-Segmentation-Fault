@@ -75,7 +75,7 @@ int main(int argc, char *argv[]) {
 				}
 			}
 			printf("]\n");*/
-			
+			identifyer = 0;
 			printf("%d\n", makeNumbers(operators, numbers, nextBegin - begin) - 1);
 			fprintf(stderr, "No segfault madeNumbers\n");
 		}
